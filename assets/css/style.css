@@ -1006,6 +1006,11 @@
     padding: 8px 10px;
     border-radius: 8px;
   }
+  @media (max-width: 580px) {
+    .main-content {
+      padding-bottom: 75px;
+    }
+  }
 
   .select-item button:hover { --eerie-black-2: hsl(240, 2%, 20%); }
 

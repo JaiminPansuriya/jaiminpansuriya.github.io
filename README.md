@@ -1,14 +1,9 @@
-# Personal portfolio
-
-![GitHub repo size](https://img.shields.io/github/repo-size/divyesh-pansuriya/divyesh-pansuriya.github.io)
-![GitHub stars](https://img.shields.io/github/stars/divyesh-pansuriya/divyesh-pansuriya.github.io?style=social)
-![GitHub forks](https://img.shields.io/github/forks/divyesh-pansuriya/divyesh-pansuriya.github.io?style=social)
-
+# Pers
 The Card is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 [Visit My Portfolio](https://divyesh-pansuriya.github.io/)
 
-[![Portfolio Preview](https://github.com/divyesh-pansuriya/divyesh-pansuriya.github.io/blob/main/assets/images/Portfolio.png)](https://divyesh-pansuriya.github.io/)
+[![Portfolio Preview](https://github.com/divyesh-pansuriya/divyesh-pansuriya.github.io/blob/main/assets/images/Preview.png)](https://divyesh-pansuriya.github.io/)
 
 ## Prerequisites
 
